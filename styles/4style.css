@@ -1,0 +1,18 @@
+body {
+    background-color:rgb(128 185 177) ;
+
+h1{
+background-color:rgb(99 136 114) ;
+color:aliceblue;
+  }
+      
+ 
+h4 {
+    color: aliceblue;
+    font-size: 20pt;
+    text-align: center;
+    text-shadow: 1px 1px 2px green, 0 0 1em white;
+    width: 100%;
+    
+}
+}
